@@ -3,7 +3,7 @@
 
 ## Introduction
 
-XT-CF-Lite V4 is a remake of James Pearce's [XT-CF-Lite](http://www.lo-tech.co.uk/wiki/XT-CF-lite) card, which in its turn is a simplified version of his CPLD based [XT-CF]() card, and shares some ideas with XT-IDE card. This card allows connecting a Compact Flash (CF) card to computers with ISA bus and using it as a mass storage device. The card also supports BIOS extension ROM.
+XT-CF-Lite V4 is a remake of James Pearce's [XT-CF-Lite card](http://www.lo-tech.co.uk/wiki/XT-CF-lite), which in its turn is a simplified version of his CPLD based [XT-CF card](http://www.lo-tech.co.uk/wiki/XT-CFv3), and shares some ideas with [XT-IDE card](https://minuszerodegrees.net/xtide/XT-IDE%20-%20Basics.htm). This card allows connecting a Compact Flash (CF) card to computers with ISA bus and using it as a mass storage device. The card also supports BIOS extension ROM.
 
 The main difference from the original XF-CF-Lite is using through hole components except of CF connector. Other differences are:
 
