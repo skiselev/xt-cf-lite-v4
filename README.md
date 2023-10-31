@@ -10,7 +10,7 @@ The main difference from the original XF-CF-Lite is using through hole component
 * 8 KiB EEPROM (28C64) or 8 KiB EPROM (27C64) instead of a flash ROM.
 * Slightly different activity LED circuit (saves one IC).
 
-![XT-CF-Lite V4 Assembled Board](images/Complete_Board_with_CF_Card.jpg)
+![XT-CF-Lite V4 Assembled Board](images/Complete_Board_with_CF_Card_800px.jpg)
 
 ## Hardware Documentation
 
